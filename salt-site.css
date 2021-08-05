@@ -168,15 +168,6 @@ img.resize {
     margin: 1em 0em;
 }
 
-#colmex-logo {
-    width: 100%;
-    margin: 1em 0em;
-}
-
-#unam-logo {
-    width: 100%;
-    margin: 1em 0em;
-}
 
 #reg-button {
 	display: inline-block;
@@ -249,13 +240,6 @@ img.resize {
     }
     #lsa-logo {
         width: 90%;
-    }
-    #colmex-logo {
-        width: 20%;
-    }
-    
-    #unam-logo {
-        width: 20%;
     }
 }
 
