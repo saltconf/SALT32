@@ -443,17 +443,27 @@ tr.invited {
     height: 70px;
 }
 
-tr.invited, tr.invitedChairinfo {
+tr.invitedChairinfo {
     background-color: #004E7C;
 	color: white;
 }
 
-tr.talkChairinfo, tr.invitedChairinfo, tr.posterChairinfo {
+tr.invitedChairinfo2 {
+    background-color: #23702C;
+    color: white;
+}
+
+tr.invited {
+    background-color: #BCE8C1;
+    color: black;
+}
+
+tr.talkChairinfo, tr.invitedChairinfo, tr.invitedChairinfo2, tr.posterChairinfo {
     text-align: center;
     font-weight: bold;
 }
 
-tr.talkChairinfo td, tr.invitedChairinfo td, tr.posterChairinfo td {
+tr.talkChairinfo td, tr.invitedChairinfo td, tr.posterChairinfo td, tr.invitedChairinfo2 td {
     border-top: 10px solid white;
 }
 
